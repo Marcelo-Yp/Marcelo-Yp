@@ -17,7 +17,7 @@
 
 ## 📫 Cómo contactarme
 
-- GitHub: github.com/Marcelo-Yp  
+- GitHub: https://github.com/Marcelo-Yp  
 - Correo: studentschool23lf@gmail.com
 
 ---
