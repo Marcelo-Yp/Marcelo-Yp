@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Hola, me llamo Mracelo Vargas Medrano.
+Mi apodo es Ypersia y estudio la carrera de Ingenieria de Sistemas.
+"No tienes que ser grande para empezar, pero tienes que empezar para ser grande."
 <!--
 **Marcelo-Yp/Marcelo-Yp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
